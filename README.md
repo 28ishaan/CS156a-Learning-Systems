@@ -1,2 +1,2 @@
 # CS-156a-Learning-Systems
-Caltech CS 156a: Learning Systems Course
+Coursework for Caltech CS156a: Learning Systems.
